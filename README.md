@@ -1,8 +1,6 @@
-# Hi👋, I'm Amit  
+Hi👋, I'm Amit  
 Here are some of the projects I've built:
-
-## Projects
-
+Projects
 1. **eNote** — [Live](https://ekeepit.vercel.app)   [GitHub](https://github.com/amitdevv/eNote)  
 2. **TechCollab** — [Live](https://techcollab.vercel.app/)  [GitHub](https://github.com/amitdevv/TechCollab)  
 3. **YouTube Focus Mode** — [Live](https://ytfocusmode.vercel.app/)  [GitHub](https://github.com/amitdevv/ytfocusmode)  
