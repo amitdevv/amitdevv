@@ -1,6 +1,6 @@
 ### Hi, I'm Amit
 
-I build AI and backend systems. I'm a founding engineer (intern) at [theStacc](https://thestacc.com), where we help businesses get found on Google and AI search. I'm in my final year at IIIT Kota (2027).
+I build AI and backend systems. I'm a founding engineer (intern) at [theStacc](https://thestacc.com), where we help businesses get found on Google and AI search.
 
 **Work**
 - **theStacc:** FastAPI, Celery and Postgres backend for an AI content platform. Made paid LLM jobs crash-safe (idempotent jobs, heartbeats, orphan recovery: interrupted work recovers in about 5 minutes with no duplicate spend). Cut LLM inference cost 78% with prompt caching and smaller prompts.
