@@ -11,7 +11,7 @@ I build AI and backend systems. I'm a founding engineer (intern) at [theStacc](h
   [postorius!1140](https://gitlab.com/mailman/postorius/-/merge_requests/1140) ·
   [mailmanclient!202](https://gitlab.com/mailman/mailmanclient/-/merge_requests/202)
 - **NoobBook:** document ingestion and citation-backed RAG over Pinecone, studio agents ([PRs](https://github.com/TeacherOp/NoobBook/pulls?q=author%3Aamitdevv)).
-- **Admission Dost:** Next.js student site, Cashfree payments, college predictor ([PRs](https://github.com/admitdost/Admission-Dost/pulls?q=author%3Aamitdevv)).
+- **Admission Dost:** Next.js student site, Cashfree payments, college predictor
 
 **Projects**
 - [eNote](https://github.com/amitdevv/eNote): notes with multi-tenant RAG (pgvector, HNSW, row-level security, cited answers over SSE)
